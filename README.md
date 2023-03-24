@@ -8,10 +8,7 @@ ChatGPT plugins are plugins that enable ChatGPT to connect with third-party appl
 
 This repository is dedicated to showcasing a curated and up-to-dated list of ChatGPT plugins.
 
-> 👋 Feel free to create a PR or open an issue to add new resources! Your contributions are highly appreciated :D
-
-
-[TOC]
+> 👋 Feel free to create a PR or open an issue to add new resources! Your contributions are highly appreciated!
 
 ## Basic
 
