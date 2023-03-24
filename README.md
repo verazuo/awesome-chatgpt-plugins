@@ -33,26 +33,26 @@ Following plugins are announced by OpenAI in [this blog](https://openai.com/blog
 
 **Information Retrival**
 
-* FiscalNote: Provides and enables access to select market-leading, real-time data sets for legal, political, and regulatory data and information.
-* Zapier: Interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.
-* Wolfram: Get answers to your questions from Wolfram
+* FiscalNote: provides and enables access to select market-leading, real-time data sets for legal, political, and regulatory data and information.
+* Zapier: interact with over 5,000+ apps like Google Sheets, Trello, Gmail, HubSpot, Salesforce, and more.
+* Wolfram: get answers to your questions from Wolfram
 
 **Order, Reservation, Shopping**
 
-* OpenTable: Make and manage reservations at your favorite restaurants
-* Instacart: Order groceries from your favorite local grocery stores
-* Expedia: Bring your trip plans to life—get there, stay there, find things to see and do.
-* KAYAK: Search for flights, stays and rental cars. Get recommendations for all the places you can go within your budget.
-* Klarna Shopping: Search and compare prices from thousands of online shops.
-* Shop: Search for millions of products from the world’s greatest brands.
+* OpenTable: make and manage reservations at your favorite restaurants
+* Instacart: order groceries from your favorite local grocery stores
+* Expedia: bring your trip plans to life—get there, stay there, find things to see and do.
+* KAYAK: search for flights, stays and rental cars. Get recommendations for all the places you can go within your budget.
+* Klarna shopping: Search and compare prices from thousands of online shops.
+* Shop: search for millions of products from the world’s greatest brands.
 
 **Audio**
 
-* Speak: Learn how to say anything in another language with Speak, your AI-powered language tutor.
+* Speak: learn how to say anything in another language with Speak, your AI-powered language tutor.
 
 **Life:** 
 
-* Milo Family AI: Giving parents superpowers to turn the manic to magic, 20 minutes each day. Ask: Hey Milo, what’s magic today?
+* Milo Family AI: giving parents superpowers to turn the manic to magic, 20 minutes each day. Ask: Hey Milo, what’s magic today?
 
   
 
